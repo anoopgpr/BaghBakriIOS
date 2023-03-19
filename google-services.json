@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131539146950",
+    "project_id": "wagh-bakri",
+    "storage_bucket": "wagh-bakri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131539146950:android:60cb9236f86b0a293f1fc7",
+        "android_client_info": {
+          "package_name": "com.mobiquest.waghbakri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131539146950-9sfht3m0gtimtsaoc8a7mhnfpei1652g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFTUlcC8jpqKhkndfz3jX8wdbMBvrAy5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131539146950-9sfht3m0gtimtsaoc8a7mhnfpei1652g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
